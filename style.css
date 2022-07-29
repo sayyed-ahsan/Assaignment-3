@@ -9,9 +9,29 @@
 
 @media only screen and (max-width: 576px) {
 
+    .cr-titell {
+        font-size: 1.5rem;
+        margin-bottom: 3px;
+    }
+
+    .cr-para-g {
+        font-size: 0.71rem;
+        margin-top: 2px;
+    }
+
+    .book-btn {
+        padding: 0.25rem 1rem 0.25rem 1rem;
+        font-size: 0.80rem;
+    }
+
     .hole-crd,
     .hole-crs {
         padding: 2rem;
+    }
+
+    .hole-crs {
+        padding-top: 0px;
+        padding-bottom: 0px;
     }
 
     .crd-info {
@@ -21,5 +41,4 @@
     .corces-img img {
         width: 100%;
     }
-
 }
