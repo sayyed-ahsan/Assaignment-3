@@ -8,9 +8,6 @@
 }
 
 @media only screen and (max-width: 576px) {
-    body {
-        background-color: lightblue;
-    }
 
     .hole-crd,
     .hole-crs {
